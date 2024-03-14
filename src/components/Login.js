@@ -15,7 +15,7 @@ const Login = () => {
             <div className="inputs">
                 <form>
                     <input required placeholder='Phone number, email address' type="email" className="mail" />
-                    <input required placeholder='password' type="password" />
+                    <input required placeholder='tele' type="password" />
                     <button type='submit'>Login</button>
                 </form>
             </div>
